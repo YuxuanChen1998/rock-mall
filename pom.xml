@@ -12,6 +12,7 @@
 
     <modules>
         <module>rockmall-product</module>
+        <module>renren-fast</module>
     </modules>
 
 </project>
